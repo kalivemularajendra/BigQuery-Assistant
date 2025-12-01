@@ -1,0 +1,4 @@
+fastmcp
+google-cloud-bigquery
+python-dotenv
+google-adk
