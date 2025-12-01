@@ -86,19 +86,6 @@ optional arguments:
   --port PORT           Port to run server on (default: 8001)
 ```
 
-## Available Tools
-
-### Data Discovery Tools
-- `list-tables`: Discover all available tables across datasets
-- `describe-table`: Get detailed schema information for specific tables
-- `create-dataset`: Create new BigQuery datasets
-- `create-sample-tables`: Create structured sample tables for testing
-
-### Analytics Tools
-- `execute-query`: Run SQL queries for analysis and insights
-- `insert-sample-data`: Populate tables with test data
-- `create-complete-sample`: Create complete sample environment (dataset + tables + data)
-
 ## Agent Capabilities
 
 ### Data Discovery Agent
